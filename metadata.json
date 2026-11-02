@@ -1,0 +1,6 @@
+{
+  "name": "AetherMark 3D — Cross-Platform Hardware Stress & Battery Benchmark Suite",
+  "description": "Industrial-grade 3D WebGL GPU/CPU stress testing, multi-loop thermal stability analyzer, daily usage battery endurance simulator, and cross-tier mobile/desktop hardware comparison suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
